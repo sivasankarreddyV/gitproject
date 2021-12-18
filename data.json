@@ -1,0 +1,22 @@
+{
+    "cards":[{
+        "img":"MOBILE 1.jpg",
+        "name":"samsung",
+        "rate":"14500",
+        "offer":"4500",
+        "button":"view"
+    },{
+        "img":"MOBILE 2.jpg",
+        "name":"iphone",
+        "rate":"18000",
+        "offer":"6500",
+        "button":"view"
+    },{
+        "img":"MOBILE 3.png",
+        "name":"redmi",
+        "rate":"55000",
+        "offer":"16000",
+        "button":"view"
+    }
+    ]
+}
